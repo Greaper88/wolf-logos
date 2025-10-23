@@ -5,5 +5,8 @@ To use these images, you'll need to edit the "icon_png_path" property in your co
 
 Themes:
 
+Dieselpunk:
+A theme similar to the Steampunk theme, but more industrial oriented. Base theme comprised of dark iron/steel plating with the use of rust and blued steel for color accents
+
 Steampunk:
 A steampunk theme with gold/brass and otherwise earthen tones, featuring an ornate border compised of gears and piping to match.
