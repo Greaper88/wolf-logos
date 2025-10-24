@@ -1,0 +1,10 @@
+https://raw.githubusercontent.com/Greaper88/wolf-logos/main/nautical/wolf-nautical-es.png
+https://raw.githubusercontent.com/Greaper88/wolf-logos/main/nautical/wolf-nautical-ffox.png
+https://raw.githubusercontent.com/Greaper88/wolf-logos/main/nautical/wolf-nautical-kodi.png
+https://raw.githubusercontent.com/Greaper88/wolf-logos/main/nautical/wolf-nautical-lutris.png
+https://raw.githubusercontent.com/Greaper88/wolf-logos/main/nautical/wolf-nautical-pegasus.png
+https://raw.githubusercontent.com/Greaper88/wolf-logos/main/nautical/wolf-nautical-prism.png
+https://raw.githubusercontent.com/Greaper88/wolf-logos/main/nautical/wolf-nautical-retroarch.png
+https://raw.githubusercontent.com/Greaper88/wolf-logos/main/nautical/wolf-nautical-steam.png
+https://raw.githubusercontent.com/Greaper88/wolf-logos/main/nautical/wolf-nautical-testball.png
+https://raw.githubusercontent.com/Greaper88/wolf-logos/main/nautical/wolf-nautical-xfce.png
