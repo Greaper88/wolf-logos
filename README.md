@@ -1,7 +1,7 @@
 # wolf-logos
 A collection of custom AI-generated logos for use with [Wolf](https://github.com/games-on-whales/wolf)
 
-To use these images, you'll need to edit the `icon_png_path` property in your config.toml file to point to the images in this repo. You'll need to copy the "raw" link for the images you want to use from the `link-list.txt` file in the theme folder, and paste said link into the config file for the appropriate app.
+To use these images, you'll need to edit the `icon_png_path` property in your `config.toml` file to point to the images in this repo. You'll need to copy the "raw" link for the images you want to use from the `link-list.txt` file in the theme folder, and paste said link into the config file for the appropriate app.
 
 ## Themes:
 
@@ -21,4 +21,4 @@ Each app is rendered as a reflection of its own identity, _its own self_. The ap
 This theme is a pirates-era nautical theme. Wooden ships, old seafaring tools, a touch of mystique, and a common element placed as a monument of sorts.
 
 **Steampunk:**
-A steampunk theme with gold/brass and otherwise earthen tones, featuring an ornate border compised of gears and piping to match.
+A steampunk theme with gold/brass and otherwise earthen tones, featuring an ornate border comprised of gears and piping to match.
