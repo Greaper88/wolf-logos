@@ -1,7 +1,7 @@
 # wolf-logos
 A collection of custom AI-generated logos for use with [Wolf](https://github.com/games-on-whales/wolf)
 
-To use these images, you'll need to edit the `icon_png_path` property in your config.toml file to point to the images in this repo. You'll need to copy the "raw" link for the images you want to use and paste said link into the config file for the appropriate app. The raw link looks like https://raw.githubusercontent.com/Greaper88/wolf-logos/main/itself/wolf-itself-prism.png which is the raw link for https://github.com/Greaper88/wolf-logos/blob/main/itself/wolf-itself-prism.png
+To use these images, you'll need to edit the `icon_png_path` property in your config.toml file to point to the images in this repo. You'll need to copy the "raw" link for the images you want to use from the `link-list.txt` file in the theme folder, and paste said link into the config file for the appropriate app.
 
 ## Themes:
 
