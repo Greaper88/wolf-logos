@@ -11,6 +11,9 @@ A cyberpunk theme, with some throwback elements seen in the dieselpunk and steam
 **Dieselpunk:**
 A theme similar to the Steampunk theme, but more industrial oriented. Base theme comprised of dark iron/steel plating with the use of rust and blued steel for color accents
 
+**Halloween:**
+A dark theme based around Halloween.
+
 **Itself:**
 Each app is rendered as a reflection of its own identity, _its own self_. The app’s function or identity defines the aesthetic. For example: steampunk for Steam, a desktop computer in a home office for XFCE, and a blocky world for Prism.
 
