@@ -7,4 +7,5 @@ https://raw.githubusercontent.com/Greaper88/wolf-logos/main/halloween/wolf-hallo
 https://raw.githubusercontent.com/Greaper88/wolf-logos/main/halloween/wolf-halloween-retroarch.png
 https://raw.githubusercontent.com/Greaper88/wolf-logos/main/halloween/wolf-halloween-steam.png
 https://raw.githubusercontent.com/Greaper88/wolf-logos/main/halloween/wolf-halloween-testball.png
+https://raw.githubusercontent.com/Greaper88/wolf-logos/main/halloween/wolf-halloween-wolfui.png
 https://raw.githubusercontent.com/Greaper88/wolf-logos/main/halloween/wolf-halloween-xfce.png

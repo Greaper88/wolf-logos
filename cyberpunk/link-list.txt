@@ -7,4 +7,5 @@ https://raw.githubusercontent.com/Greaper88/wolf-logos/main/cyberpunk/wolf-cyber
 https://raw.githubusercontent.com/Greaper88/wolf-logos/main/cyberpunk/wolf-cyberpunk-retroarch.png
 https://raw.githubusercontent.com/Greaper88/wolf-logos/main/cyberpunk/wolf-cyberpunk-steam.png
 https://raw.githubusercontent.com/Greaper88/wolf-logos/main/cyberpunk/wolf-cyberpunk-testball.png
+https://raw.githubusercontent.com/Greaper88/wolf-logos/main/cyberpunk/wolf-cyberpunk-wolfui.png
 https://raw.githubusercontent.com/Greaper88/wolf-logos/main/cyberpunk/wolf-cyberpunk-xfce.png

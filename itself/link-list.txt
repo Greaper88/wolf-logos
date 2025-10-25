@@ -7,4 +7,5 @@ https://raw.githubusercontent.com/Greaper88/wolf-logos/main/itself/wolf-itself-p
 https://raw.githubusercontent.com/Greaper88/wolf-logos/main/itself/wolf-itself-retroarch.png
 https://raw.githubusercontent.com/Greaper88/wolf-logos/main/itself/wolf-itself-steam.png
 https://raw.githubusercontent.com/Greaper88/wolf-logos/main/itself/wolf-itself-testball.png
+https://raw.githubusercontent.com/Greaper88/wolf-logos/main/itself/wolf-itself-wolfui.png
 https://raw.githubusercontent.com/Greaper88/wolf-logos/main/itself/wolf-itself-xfce.png

@@ -7,4 +7,5 @@ https://raw.githubusercontent.com/Greaper88/wolf-logos/main/steampunk/wolf-steam
 https://raw.githubusercontent.com/Greaper88/wolf-logos/main/steampunk/wolf-steampunk-retroarch.png
 https://raw.githubusercontent.com/Greaper88/wolf-logos/main/steampunk/wolf-steampunk-steam.png
 https://raw.githubusercontent.com/Greaper88/wolf-logos/main/steampunk/wolf-steampunk-testball.png
+https://raw.githubusercontent.com/Greaper88/wolf-logos/main/steampunk/wolf-steampunk-wolfui.png
 https://raw.githubusercontent.com/Greaper88/wolf-logos/main/steampunk/wolf-steampunk-xfce.png

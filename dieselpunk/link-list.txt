@@ -7,4 +7,5 @@ https://raw.githubusercontent.com/Greaper88/wolf-logos/main/dieselpunk/wolf-dies
 https://raw.githubusercontent.com/Greaper88/wolf-logos/main/dieselpunk/wolf-dieselpunk-retroarch.png
 https://raw.githubusercontent.com/Greaper88/wolf-logos/main/dieselpunk/wolf-dieselpunk-steam.png
 https://raw.githubusercontent.com/Greaper88/wolf-logos/main/dieselpunk/wolf-dieselpunk-testball.png
+https://raw.githubusercontent.com/Greaper88/wolf-logos/main/dieselpunk/wolf-dieselpunk-wolfui.png
 https://raw.githubusercontent.com/Greaper88/wolf-logos/main/dieselpunk/wolf-dieselpunk-xfce.png
