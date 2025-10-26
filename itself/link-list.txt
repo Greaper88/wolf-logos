@@ -1,5 +1,6 @@
 https://raw.githubusercontent.com/Greaper88/wolf-logos/main/itself/wolf-itself-es.png
 https://raw.githubusercontent.com/Greaper88/wolf-logos/main/itself/wolf-itself-ffox.png
+https://raw.githubusercontent.com/Greaper88/wolf-logos/main/itself/wolf-itself-heroic.png
 https://raw.githubusercontent.com/Greaper88/wolf-logos/main/itself/wolf-itself-kodi.png
 https://raw.githubusercontent.com/Greaper88/wolf-logos/main/itself/wolf-itself-lutris.png
 https://raw.githubusercontent.com/Greaper88/wolf-logos/main/itself/wolf-itself-pegasus.png
