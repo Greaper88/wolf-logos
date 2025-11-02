@@ -1,0 +1,11 @@
+https://raw.githubusercontent.com/Greaper88/wolf-logos/main/autumn/wolf-autumn-es.png
+https://raw.githubusercontent.com/Greaper88/wolf-logos/main/autumn/wolf-autumn-ffox.png
+https://raw.githubusercontent.com/Greaper88/wolf-logos/main/autumn/wolf-autumn-kodi.png
+https://raw.githubusercontent.com/Greaper88/wolf-logos/main/autumn/wolf-autumn-lutris.png
+https://raw.githubusercontent.com/Greaper88/wolf-logos/main/autumn/wolf-autumn-pegasus.png
+https://raw.githubusercontent.com/Greaper88/wolf-logos/main/autumn/wolf-autumn-prism.png
+https://raw.githubusercontent.com/Greaper88/wolf-logos/main/autumn/wolf-autumn-retroarch.png
+https://raw.githubusercontent.com/Greaper88/wolf-logos/main/autumn/wolf-autumn-steam.png
+https://raw.githubusercontent.com/Greaper88/wolf-logos/main/autumn/wolf-autumn-testball.png
+https://raw.githubusercontent.com/Greaper88/wolf-logos/main/autumn/wolf-autumn-wolfui.png
+https://raw.githubusercontent.com/Greaper88/wolf-logos/main/autumn/wolf-autumn-xfce.png
