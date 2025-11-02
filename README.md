@@ -5,6 +5,9 @@ To use these images, you'll need to edit the `icon_png_path` property in your `c
 
 ## Themes:
 
+**Autumn Harvest**
+A theme based around fall and Thanksgiving. Wooden backgrounds, with pumpkins, wheat, lanterns, and overall throwback to an old-school harvest time.
+
 **Cyberpunk:**
 A cyberpunk theme, with some throwback elements seen in the dieselpunk and steampunk themes.
 
