@@ -25,3 +25,6 @@ This theme is a pirates-era nautical theme. Wooden ships, old seafaring tools, a
 
 **Steampunk:**
 A steampunk theme with gold/brass and otherwise earthen tones, featuring an ornate border comprised of gears and piping to match.
+
+**Yule:**
+Winter theme with Yule and Christmas elements. 
