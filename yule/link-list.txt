@@ -1,0 +1,12 @@
+https://raw.githubusercontent.com/Greaper88/wolf-logos/main/yule/wolf-yule-es.png
+https://raw.githubusercontent.com/Greaper88/wolf-logos/main/yule/wolf-yule-ffox.png
+https://raw.githubusercontent.com/Greaper88/wolf-logos/main/yule/wolf-yule-heroic.png
+https://raw.githubusercontent.com/Greaper88/wolf-logos/main/yule/wolf-yule-kodi.png
+https://raw.githubusercontent.com/Greaper88/wolf-logos/main/yule/wolf-yule-lutris.png
+https://raw.githubusercontent.com/Greaper88/wolf-logos/main/yule/wolf-yule-pegasus.png
+https://raw.githubusercontent.com/Greaper88/wolf-logos/main/yule/wolf-yule-prism.png
+https://raw.githubusercontent.com/Greaper88/wolf-logos/main/yule/wolf-yule-retroarch.png
+https://raw.githubusercontent.com/Greaper88/wolf-logos/main/yule/wolf-yule-steam.png
+https://raw.githubusercontent.com/Greaper88/wolf-logos/main/yule/wolf-yule-testball.png
+https://raw.githubusercontent.com/Greaper88/wolf-logos/main/yule/wolf-yule-wolfui.png
+https://raw.githubusercontent.com/Greaper88/wolf-logos/main/yule/wolf-yule-xfce.png
