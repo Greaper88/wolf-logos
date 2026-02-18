@@ -23,6 +23,9 @@ Each app is rendered as a reflection of its own identity, _its own self_. The ap
 **Nautical:**
 This theme is a pirates-era nautical theme. Wooden ships, old seafaring tools, a touch of mystique, and a common element placed as a monument of sorts.
 
+**Spring:**
+A spring-time theme with lots of greenery.
+
 **Steampunk:**
 A steampunk theme with gold/brass and otherwise earthen tones, featuring an ornate border comprised of gears and piping to match.
 
